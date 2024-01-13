@@ -1,0 +1,88 @@
+.fa-smile:hover{
+
+    color: lime;
+    font-size : 10em;
+    transition:  0.5s;
+}
+
+.fa-meh:hover{
+
+    color: yellow;
+    font-size : 10em;
+    transition:  0.5s;
+}
+
+.fa-frown:hover{
+
+    color: red;
+    font-size : 10em;
+    transition:  0.5s;
+
+}
+
+
+/********************************/
+.fa-sign-out-alt{
+    color: grey;
+    text-decoration: none;
+}
+
+.fa-sign-out-alt:hover{
+    color: red;
+}
+
+/********************************/
+
+.male{ 
+    margin-top: 4%;
+}
+
+.female{
+    margin-top: 4%;
+}
+
+.male:hover{
+    color: #5b92e5;
+    transition:  0.5s;
+}
+
+.female:hover{
+    color: #ff5ba5;
+    transition:  0.5s;
+}
+
+.fa-home .fa-cog{
+    text-decoration: none;
+}
+
+.fa-home {
+    color : black;
+}
+
+.fa-home:hover{
+    color: rgb(182, 101, 47);
+    transition:  0.5s;
+}
+
+.fa-cog{
+    color: #c4c4c4;
+    visibility: hidden;
+}
+
+.fa-cog:hover{
+    color: black;
+    transition:  0.5s;
+}
+
+.fa-exclamation-circle{
+    color:"#EED202";
+}
+
+.male2{ 
+    margin-top : 0%;
+}
+
+.female2{
+    margin-top : 0%;
+
+}

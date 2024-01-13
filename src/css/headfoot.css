@@ -1,0 +1,92 @@
+/*horizontal, vertical, blur radius, spread radius */
+
+header{
+    margin: 0px;
+    padding: 0px;
+    background: #fff;
+     
+}
+
+.header_container{
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding : 20px;
+    background: #fff;
+    -moz-box-shadow:0 5px 5px rgba(182, 182, 182, 0.75); 
+    -webkit-box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+    box-shadow:  0 5px 5px rgba(182, 182, 182, 0.75);
+    width : 100%; 
+    position : fixed;
+
+}
+
+.header_wrapper{
+    margin : 0px;
+    padding : 0px;
+    text-align: left;
+    font-size: 14px;
+    
+}
+
+/***********************************************************/
+
+
+footer {
+    background-color: #F1F1F1;
+}
+
+
+
+.footer_container{
+    position: fixed;
+    bottom : 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding : 20px;
+    background: #fff;
+    width : 100%;
+    -moz-box-shadow:0 -5px 5px rgba(182, 182, 182, 0.75); 
+    -webkit-box-shadow: 0 -5px 5px rgba(182, 182, 182, 0.75);
+    box-shadow:  0 -5px 5px rgba(182, 182, 182, 0.75); 
+}
+
+.footer_wrapper{
+    padding : 10px;
+}
+
+/***********************************************************/
+
+.CoronaSG{
+    margin-right : 20%;
+    padding : none;
+    text-align :left;
+}
+
+.HP{
+    margin-right : 5%;
+    margin-left : 5%;
+    padding : none;
+    text-align :middle;
+}
+
+.Rate{
+    margin-left : 10%;
+    padding : none;
+    /*visibility : hidden;*/
+
+}
+
+.About{
+    margin-left : 18%;
+    padding : none;
+}
+
+
+.head_right{
+    float : right;
+    margin-right : 40px;
+    /*visibility: hidden;*/
+}
+
+
+

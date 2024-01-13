@@ -1,0 +1,43 @@
+/****************************************************
+Purpose : Resize all images and logo to right size
+*****************************************************/
+/*Header*/
+.Home_Logo {
+    /*position: absolute;*/
+    width: 40px;
+    height: 40px;
+}
+
+/*Login*/
+.LD_Logo{
+    width: 300px;
+    height: 300px;
+}
+
+/*Main*/
+.Test_Logo{
+    width: 417px;
+    height: 417px;
+}
+.Rec_Logo{
+    width: 417px;
+    height: 417px;
+}
+
+/*AboutUs*/
+.Team_Logo{
+    width: 247px;
+    height: 245px;
+    background: #ffffff;
+    border: 3px solid black;
+    display: block;
+    margin-top : 10%;
+    margin-left : 5%;
+
+}
+
+.Manager, .Lead, .Frontend, .Backend, .QA, .Test{
+    width: 150px;
+    height: 150px;
+}
+
